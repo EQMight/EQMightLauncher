@@ -1,0 +1,9 @@
+8
+cst,cst
+dvs,dvs
+dke,dke
+krn,krn
+pma,pma
+tar,tar
+ans,ans
+spx,spx
