@@ -1281,7 +1281,7 @@
 193^1^Act of Valor^0
 193^2^Act of^0
 193^3^Valor^0
-193^4^This noble ability will allow you to transfer all of your hit points to a target player, killing you in the process.^0
+193^4^This noble ability will allow you to heal your group and put a damaging curse on yourself.^0
 193^6^Attacks the minds of all enemies in the vicinity of your target, providing a chance to forget those that have done them harm.^0
 193^11^Abhorrent^0
 193^12^Abhorrents^0
@@ -36788,6 +36788,8 @@
 43355^6^Increases the damage done by Curse of Mortality spells by #1 to $1 percent.^0
 43371^6^Increases the damage of Bite of the Empress by #1 percent.^0
 43372^6^Reduces the reuse timer of the Rejuvenating Will and similar Discipline by 30 seconds.^0
+43399^6^You draw on inner strength and revitalize #1 health.^0
+43402^6^Reduces the reuse timer of the Revitalize and similar Discipline by 30 seconds.^0
 43496^6^Reach into the pack to retrieve your potion.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
