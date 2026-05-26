@@ -11098,6 +11098,7 @@
 8968^6^Transports you to Arcstone in the Plane of Magic.^0
 8969^6^Opens an arcane portal that teleports your target to Arcstone in the Plane of Magic.^0
 8978^6^Summons an Abyssal Steed mount for you to ride.^0
+8988^6^Increases the damage of disease-based spells by up to $1 percent.  This bonus will decay on spells over level #2.^0
 8990^6^Calls upon the legendary steed known as Ghostrider.^0
 8991^6^Increases your companions' chance to dodge, as long as they stay inside the area of the aura.^0
 8992^6^Increases your companions' chance to dodge, as long as they stay inside the area of the aura.^0
@@ -36799,6 +36800,7 @@
 43399^6^You draw on inner strength and revitalize #1 health.^0
 43402^6^Reduces the reuse timer of the Revitalize and similar Discipline by 30 seconds.^0
 43407^6^Summons a fiery dagger for pets.^0
+43426^6^A cold grave grips your target, causing @1 damage every 6 seconds for up to %z.^0
 43496^6^Reach into the pack to retrieve your potion.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
