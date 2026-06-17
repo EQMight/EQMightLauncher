@@ -2865,7 +2865,7 @@
 619^1^Call of Xuzl^0
 619^2^Call of^0
 619^3^Xuzl^0
-619^4^This ability calls a number of swords of Xuzl into existence directed at a target.  The swords attack the target until they dissipate 45 seconds later.  The initial rank of this ability calls two swords.  Additional ranks increase the overall power of the ability.^0
+619^4^This ability calls a number of swords of Xuzl into existence directed at a target.  The swords attack the target until they dissipate 75 seconds later.  The initial rank of this ability calls two swords.  Additional ranks increase the overall power of the ability.^0
 619^6^Spins your target in a circle, preventing them from taking any action for a short time.^0
 619^11^Stone Pylon^0
 619^12^Stone Pylons^0
@@ -12788,7 +12788,7 @@
 10545^1^Warlord's Resurgence^0
 10545^2^Warlord's^0
 10545^3^Resurgence^0
-10545^4^This ability summons regenerative energies to flow through your body. The first rank increasing healing by 300 hp per tick for up to 3 minutes. Additional ranks increase the healing effect.^0
+10545^4^This ability summons regenerative energies to flow through your body. The first rank increasing healing by 300 hp per tick. Additional ranks increase the healing effect.^0
 10545^6^Fills your target's blood with fire, causing  #1 damage every six seconds for %z.^0
 10546^1^Warlord's Fury^0
 10546^2^Warlord's^0
@@ -36812,6 +36812,10 @@
 43440^6^Reduces the reuse timer of the Invigorating and Rousing Battlecry Disciplines by 4 minutes.^0
 43457^6^Increases your attack speed and damage.^0
 43459^6^Consumes your mind in a bestial rage, causing every attack you make to be a critical hit.^0
+43460^6^Infuses your target with the power of an avatar, increasing their attack, strength, dexterity and agility rating for %z.^0
+43474^6^Summons a Mindsting Swarm causing between #1 and @1 damage every six seconds for %z.^0
+43479^6^Summons Solusek Ro to your aid for a short time.^0
+43487^6^Increases the damage done by Chillgrave spells by #1 to $1 percent.^0
 43496^6^Reach into the pack to retrieve your potion.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
