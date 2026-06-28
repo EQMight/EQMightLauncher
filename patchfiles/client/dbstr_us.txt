@@ -36742,7 +36742,7 @@
 43068^6^Reduces the cast time of beneficial spells by #1 percent. This bonus works for complete and percentage heals and will decay on spells over level #2.^0
 43069^6^Extends the duration of Fierce Eye.^0
 43070^6^Doubles the duration of Quick Time.^0
-43071^6^Triples the duration of Desolate Deeds.^0
+43071^6^Triples the duration of Desolate Deeds and Dreary Deeds.^0
 43072^6^Increases the damage done by Ancient: Neurosis spells by #1 to $1 percent.^0
 43073^6^Increases the damage done by Acikin spells by #1 to $1 percent.^0
 43090^6^Increases the damage done by Ancient: Pious Conscience spells by #1 to $1 percent.^0
@@ -36820,6 +36820,7 @@
 43490^6^Shatter the spirit of your target, causing #1 damage.^0
 43491^6^Break the soul of your target, causing #1 damage.^0
 43496^6^Reach into the pack to retrieve your potion.^0
+43497^6^Increases your companions' chance for critical hits with spells or melee attacks.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
@@ -37581,6 +37582,7 @@
 1050897^6^^0
 1050898^6^^0
 1050899^6^^0
+1050900^6^^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
