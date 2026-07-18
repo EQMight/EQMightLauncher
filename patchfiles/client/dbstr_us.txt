@@ -9387,7 +9387,7 @@
 6264^6^Places the protection of Kreljnok upon your group.  Increasing your group's hit points and providing you with a chance to ignore the effects of detrimental spells.^0
 6265^6^Balances the spirits of your group members, evening the wounds between your group, healing what wounds remain, and potentially removing the effects of harmful spells.^0
 6266^6^Fills your body with the flames of the valiant, increasing the amount heal spells are capable of landing on you and granting your weapon holy power to strike down your enemies.^0
-6267^6^Fills you with the spirit of the Falcon, greatly increasing your accuracy and chance to critical hit while meleeing.^0
+6267^6^Fills you with the spirit of the Falcon, greatly increasing your accuracy and chance to critical hit while meleeing as well as increasing your Archery Mastery.^0
 6268^6^Devours the lifeforce of your opponent, damaging them and granting you dark power to siphon the life of those they attack as well as increasing your accuracy.^0
 6269^6^Diffuses your target's mystic protection, allowing direct damage spells to do more damage to them.^0
 6270^6^Imbues your body with the peace of the disciple, providing a chance to make a stunning attack in melee, as well as increasing your maximum hitpoints.^0
@@ -35397,6 +35397,7 @@
 38964^6^Silences target.^0
 38965^6^Grants bonuses to melee speed and attack power.^0
 38966^6^Fire causes you to lose health over time.^0
+39282^6^Cloaks you in a shimmering illusion that makes you appear to be a Troll Pirate.^0
 40300^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 5 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Dull Simple Dye to create.^0
 40301^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 10 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40302^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 15 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Shiny Simple Dye to create.^0
@@ -36805,7 +36806,7 @@
 43371^6^Increases the damage of Bite of the Empress by #1 percent.^0
 43372^6^Reduces the reuse timer of the Rejuvenating Will and similar Discipline by 30 seconds.^0
 43399^6^You draw on inner strength and revitalize #1 health.^0
-43402^6^Reduces the reuse timer of the Revitalize and similar Discipline by 30 seconds.^0
+43404^6^Reduces the reuse timer of Iron Revitalize and Stealy Revitalize by 45 seconds.^0
 43407^6^Summons a fiery dagger for pets.^0
 43426^6^A cold grave grips your target, causing @1 damage every 6 seconds for up to %z.^0
 43437^6^Covers you with regenerating Moldkin spores, increasing your rate of healing. Does not stack with self-overhaste effects.^0
@@ -36821,6 +36822,7 @@
 43491^6^Break the soul of your target, causing #1 damage.^0
 43496^6^Reach into the pack to retrieve your potion.^0
 43497^6^Increases your companions' chance for critical hits with spells or melee attacks.^0
+43502^6^Summons a Moon Pixie pet to aid you in battle.^0
 43513^6^Summons a raging orc servant that will relentlessly attack your opponent for a short time.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
@@ -37585,6 +37587,7 @@
 1050899^6^^0
 1050900^6^^0
 1050901^6^^0
+1050902^6^^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
