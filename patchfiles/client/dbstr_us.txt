@@ -36824,6 +36824,19 @@
 43497^6^Increases your companions' chance for critical hits with spells or melee attacks.^0
 43502^6^Summons a Moon Pixie pet to aid you in battle.^0
 43513^6^Summons a raging orc servant that will relentlessly attack your opponent for a short time.^0
+43530^6^Reduces the reuse timer of the Quickshot Discipline by 6 seconds.^0
+43532^6^Increases the base effectiveness of the Ancient: Hallow Lights spells by #1 percent.^0
+43533^6^Increases the base effectiveness of the Ancient: Chlorobon spells by #1 percent.^0
+43534^6^Increases the base effectiveness of the Ancient: Wilslik's Mending spells by #1 percent.^0
+43536^6^Cloaks you in a shimmering illusion that makes you appear to be an Unbreaking Minotaur.  Grants up to 135 attack.^0
+43537^6^Decreases the reuse time of Cleaving Anger Discipline by 3 minutes.^0
+43538^6^Increases the duration of swarm pets by 3 seconds.^0
+43539^6^Increases the duration of swarm pets by 4 seconds.^0
+43540^6^Increases the duration of Moon Orc swarm pets by 6 seconds.^0
+43541^6^Increases the duration of Moon Orc swarm pets by 12 seconds.^0
+43543^6^Fills your muscles with fury, increasing the chance of scoring a critical hit with a Berserker melee skill and increases its base damage.^0
+43547^6^Fills your muscles with fury, increasing the chance of scoring a critical hit with a Monk melee skill and increases its base damage.^0
+43551^6^Fills your muscles with fury, increasing the chance of scoring a critical hit with a Rogue melee skill and increases its base damage.^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
@@ -37588,6 +37601,7 @@
 1050900^6^^0
 1050901^6^^0
 1050902^6^^0
+1050903^6^^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
